@@ -64,5 +64,9 @@
     "typescript": "2.7.2",
     "webpack-cli": "^2.0.14"
   },
+  "engines": {
+    "node": "10.8.0",
+    "npm": "6.2.0"
+  },
   "repository": {}
 }
